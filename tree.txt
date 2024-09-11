@@ -1,0 +1,34 @@
+Структура папок
+Серийный номер тома: 6078-E30F
+U:\
++---Каталог1
+¦   +---Art
+¦   ¦   +---JPG
+¦   ¦   L---PNG
+¦   +---Books
+¦   ¦   +---DOC
+¦   ¦   +---PDF
+¦   ¦   L---TXT
+¦   +---git
+¦   L---movies
+¦       +---MOV
+¦       +---MP4
+¦       L---MPEG4
++---Каталог2
+¦   +---Children
+¦   ¦   +---Alice
+¦   ¦   +---John
+¦   ¦   L---Mia
+¦   +---git
+¦   L---Parents
+¦       +---Bob
+¦       L---Mary
+L---Каталог3
+    +---git
+    +---Telegram
+    ¦   +---DAT
+    ¦   +---PNG
+    ¦   L---TXT
+    L---Viber
+        +---PNG
+        L---TXT
